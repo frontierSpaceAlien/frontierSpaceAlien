@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 About Me
 I'm a full-stack developer focused on building scalable web applications and clean backend systems. I care about performance, maintainability, and solving real-world problems with simple, thoughtful solutions.
 ***
-### ⚡Tech Stack
+### ⚡My Tech
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,html,css,react,postgresql,supabase,tailwindcss,nodejs,vercel)
 ***
 ### 📌Pinned Repositories
